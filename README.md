@@ -1,2 +1,3 @@
-# exam_final_git
-exam_final_git
+## Contribution
+Merci de soumettre vos suggestions directement via une pull
+request.
